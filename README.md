@@ -104,7 +104,7 @@ Two datasets will be used for this project with 18 variables and ~2500 records i
 |      Hypothesis       |       Supported?    |                  Description                      |
 |-----------------------|---------------------|---------------------------------------------------|
 |    Hypothesis2a       |     Yes, partially  |Technology, entertainment and design are indeed belong to the top 10 popular topics.The most top popular topics, however, are technology, culture, science and global issues.  |
-|    Hypothesis2b       |       Yes           |Topics are more popular mostly because they are inspiring and informative!|
+|    Hypothesis2b       |       Yes           |TED talks are popular mostly because they are "inspiring" according to the audiences top ratings, followed by "informative" and "fascinating".|
 |    Hypothesis3a       |       No            |TED talks popularity was climbing from 2006 to 2013, and experienced decline from 2013 to nowadays.|
 |    Hypothesis3b       |       No            |TED talks are more popular in summer.|
 |    Hypothesis3c       |       No            |TED talks are more popular on weekdays. |
