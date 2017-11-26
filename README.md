@@ -155,6 +155,7 @@ Two datasets will be used for this project with 18 variables and ~2500 records i
 #### Conclusions
 ##### section 2.1
 * Analysis results are drastically different using different definition of popularity!
+* The comparision of my top 10 list with the most popular talks list on the TED official website indicate TED mostly consider number of views as their criteria for popularity. Much less emphasis were put on number of comments/comments per view/number of languages.
 
 ##### section 2.2.1
 * Technology, entertainment and design are belong to the top 10 popular topics, but technology, culture, science and global issues are the most top popular topics. 
