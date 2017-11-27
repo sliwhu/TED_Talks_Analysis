@@ -119,7 +119,7 @@ Two datasets will be used for this project with 18 variables and ~2500 records i
 * “Do schools kill creativity”, “Your body language may shape who you are” and “How great leaders inspire action” are the top popular talks (made into all four top 10 lists using different definition of popularity)
 * Top 1 viewed talk “Do schools kill creativity” didn’t even make into the top 10 comments per view list. On the contrary, “Militant atheism” raised more comments compared to its view numbers.
 * Top 10 talks translated into most number of languages list is quite different from the rest three lists. US audiences preferences are apparently different from global average.
-* When comparing top 10 lists of four popularity definitions, there are most overlap between top 10 viewed list and the TED official website. 
+* When comparing top 10 lists of four popularity definitions, there are most overlap between top 10 viewed list and the TED official website, indicating TED mostly consider number of views as their criteria for popularity. Less attention were given to number of comments/comments per view/number of languages.
 
 ##### section 2.2.1
 * Technology, entertainment and design are indeed belong to the top 10 popular topics. 
@@ -156,7 +156,7 @@ Two datasets will be used for this project with 18 variables and ~2500 records i
 #### Conclusions
 ##### section 2.1
 * Analysis results are drastically different using different definition of popularity!
-* The comparision of my top 10 list with the most popular talks list on the TED official website indicate TED mostly consider number of views as their criteria for popularity. Much less emphasis were put on number of comments/comments per view/number of languages.
+* The comparision of my top 10 list with the most popular talks list on the TED official website indicate TED mostly consider number of views as their criteria for popularity. Less attention were given to number of comments/comments per view/number of languages.
 
 ##### section 2.2.1
 * Technology, entertainment and design are belong to the top 10 popular topics, but technology, culture, science and global issues are the most top popular topics. 
